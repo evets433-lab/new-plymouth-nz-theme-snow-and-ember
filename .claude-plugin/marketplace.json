@@ -1,0 +1,11 @@
+{
+  "name": "new-plymouth-nz-theme",
+  "owner": { "name": "evets433-lab" },
+  "plugins": [
+    {
+      "name": "snow-and-ember",
+      "source": "./",
+      "description": "New Plymouth New Zealand Theme: Snow & Ember. Snow piles up on Taranaki as the context window fills, a campfire burns down with your 5-hour usage, and a moon eclipses the sun with your weekly usage."
+    }
+  ]
+}
